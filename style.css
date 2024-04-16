@@ -1,0 +1,101 @@
+.container{
+    margin: 0px 166px;
+}
+
+.header{
+    background-color: white;
+}
+
+body{
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+}
+
+.header-line{
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.nav-item{
+    color: black;
+    text-decoration: none;
+    font-weight: 700;
+    font-size; 14px;
+    margin-left: 25px;
+    margin: 30px;
+    transition: color 0.3s linear
+}
+
+.nav-item:hover{
+    color: #6495ED;
+}
+
+.vk-img{
+
+}
+
+.button{
+    margin-left: 400px;
+    color: black;
+    text-decoration: none;
+    font-weight: 700;
+    font-size; 14px;
+    background-color: #87CEFA;
+    padding: 14px 18px
+}
+
+.button:hover{
+    background-color: #00BFFF;
+}
+
+.card{
+    box-shadow: 10px 10px 40px 20px #ADD8E6;
+    width: 349px;
+    height: 320px;
+    margin-right: 60px;
+    margin-top: 50px;
+}
+.card-img{
+    display: flex;
+    justify-content: center;
+    padding-top: 21px;
+}
+
+.card-title{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    font-size; 15px;
+
+}
+
+.cards-holder{
+    display: flex;
+    justify-content: center;
+}
+
+.card-desk{
+    margin-left: 15px;
+    text-align: center;
+    font-size; 15px;
+
+}
+
+.container-main{
+
+}
+.text{
+    display: flex;
+    text-align: center;
+    margin: 50px 200px;
+    width: 500px;
+    font-family: sans-serif;
+    font-weight: 550;
+    font-size; 30px;
+}
+
+.main-img{
+
+    margin: -600px 750px;
+}
